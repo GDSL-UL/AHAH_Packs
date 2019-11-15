@@ -1,0 +1,16 @@
+field_name, desc
+ffood_d, Accessibility to Fast food outlets
+gamb_d, Accessibility to Gambling outlets
+off2_d, Accessibility to Off-licenses
+tobac_d, Accessibility to Tobacconists
+pubs2_d, Accessibility to Pubs, bars and nightclubs
+gpp_d, Accessibility to GP practices
+ed_d, Accessibility to A&E hospitals
+pharm_d, Accessibility to Pharmacies
+dent_d, Accessibility to Dentist practices
+leis_d, Accessibility to Leisure services
+green900, Accessibility to Green spaces
+no2, Nitrogen Dioxide (NO2)
+pm10, PM10 Particles
+so2, Sulphur Dioxide (SO2)
+
